@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between Mr. Prejudice, a dissenting country gentleman, and Mr. Reason, a student in the University being a short vindication of the University from popery and an answer to some objections concerning the D. of Y.</title>
+            <author>Wood, Thomas, 1661-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66941</idno>
+            <idno type="STC">Wing W3408</idno>
+            <idno type="STC">ESTC R26396</idno>
+            <idno type="EEBO-CITATION">09452259</idno>
+            <idno type="OCLC">ocm 09452259</idno>
+            <idno type="VID">43144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1321:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between Mr. Prejudice, a dissenting country gentleman, and Mr. Reason, a student in the University being a short vindication of the University from popery and an answer to some objections concerning the D. of Y.</title>
+                  <author>Wood, Thomas, 1661-1722.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Sawbridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Universities and colleges --  England.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43144:1" rendition="simple:additions"/>
+            <p>A DIALOGUE BETWEEN Mr. <hi>PREJ<g ref="char:V">Ʋ</g>DICE,</hi> A Diſſenting Country Gentleman, AND Mr. <hi>REASON,</hi> A Student in the Univerſity: BEING A ſhort <hi>Vindication</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity</hi> from <hi>Popery,</hi> and an <hi>Anſwer</hi> to ſome <hi>Objections</hi> concerning the <hi>D.</hi> of <hi>Y.</hi>
+            </p>
+            <q>
+               <hi>Ars &amp; Academia non habent inimicos praeter ignorantes.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Sawbridge,</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:43144:2"/>
+            <p>HUmbly dedicated to thoſe who ſeek to be Undeceived, and de<g ref="char:EOLhyphen"/>ſire to be Loyal.</p>
+            <closer>
+               <signed>By <hi>T. W.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:43144:2"/>
+            <head>A DIALOGUE BETWEEN Mr. <hi>PREJ<g ref="char:V">Ʋ</g>DICE,</hi> A Diſſenting Country Gentleman, AND Mr. <hi>REASON,</hi> A Student in the Univerſity.</head>
+            <sp>
+               <speaker>Prejudice.</speaker>
+               <p>YOU are a Company of <hi>Lazy Lord-Danes, Domineering, bold Coxcombs,</hi> &amp;c. <hi>Crab-Proteſtants,</hi> that crawl backwards to Popery, <hi>Catts-feet,</hi> wherewith the Romiſh Monkeys claw the Pro<g ref="char:EOLhyphen"/>teſtant Religion, <hi>&amp;c.</hi>—Sbud, you are Hea<g ref="char:EOLhyphen"/>thens, Mahometans, Perſians; whoſe onely Re<g ref="char:EOLhyphen"/>ligion is to worſhip the <hi>Riſing Sun:</hi>—I can eaſily prove you are Papiſts —</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p> Ay, Sir, if you will <hi>prove</hi> any thing,
+<pb n="2" facs="tcp:43144:3"/> I am for you: but what you have ſaid all this while, I take to be nothing elſe, but a <hi>Regiment</hi> of <hi>Rabble Dirt, muſtered</hi> and <hi>raked</hi> up, to oppoſe and <hi>beſpatter</hi> our <hi>Monarch, Truth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prejudice.</speaker>
+               <p>Well, you ſhall ſee that whom you call your <hi>Monarch Truth,</hi> I ſhall prove to be an <hi>
+                     <g ref="char:V">Ʋ</g>ſurper, Impoſtour, Son</hi> of the <hi>Whore</hi>—and, as I was ſaying before, I ſhall prove you Univerſi<g ref="char:EOLhyphen"/>ty men to be <hi>Papiſts.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>Come, Sir, now I am reſolved to liſten.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>And you ſhall have your own way; It ſhall be in Mode and Figure; for I was once of your Coat, and had the happineſs to under<g ref="char:EOLhyphen"/>ſtand your <hi>tricks</hi>—Thus, Sir, I ſhall prove it, and that Infallibly.</p>
+               <p>
+                  <list type="syllogism">
+                     <item>
+                        <hi>They that live in Colleges built by Papiſts, are themſelves Papiſts.</hi>
+                     </item>
+                     <item>
+                        <hi>But you <g ref="char:V">Ʋ</g>niverſity men live in Colleges that were built by Papiſts.</hi>
+                     </item>
+                     <item>
+                        <hi>Tarbox.</hi>—</item>
+                  </list>
+               </p>
+               <p>'Tis all certainly true, for your Colleges were built either by Cardinals, and you know there be no <hi>Proteſtant Cardinals;</hi> or elſe by <hi>Popiſh</hi> Biſhops, or ſome of the Popiſh Layety; and you know, thoſe that are Popiſh are Papiſts; therefore your Colleges were built by Papiſts.</p>
+            </sp>
+            <sp>
+               <speaker>Reaſ.</speaker>
+               <p>Ha ha he. I am not angry with your <hi>Mi<g ref="char:EOLhyphen"/>nor;</hi> I declare I am good friends with it; I ac<g ref="char:EOLhyphen"/>knowledge moſt of our Colleges were built by Pa<g ref="char:EOLhyphen"/>piſts: but, Sir, I have a very great Grudge againſt
+<pb n="3" facs="tcp:43144:3"/> your <hi>Major;</hi> I deſire you would prove, that they that live in Colleges, that were built by Papiſts, are themſelves Papiſts.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>Ha! deny the <hi>Major!</hi> Why 'tis a <hi>Prin<g ref="char:EOLhyphen"/>ciple:</hi> 'Tis agreed upon by all the Country Gentle<g ref="char:EOLhyphen"/>men that live within three or four miles of me. I know no one that ever contradicted it, but the ſimple Parſon of the Pariſh, and a few other Non<g ref="char:EOLhyphen"/>ſenſical fellows—</p>
+            </sp>
+            <sp>
+               <speaker>Reaſ.</speaker>
+               <p>Pray, Sir, don't be ſo cholerick—Let me ask you: Were not Cities, Towns, <hi>&amp;c.</hi> here in <hi>England,</hi> founded and built before the Refor<g ref="char:EOLhyphen"/>mation?</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>And that was not quite two hundred year ago; yes, I believe they were; What then?</p>
+            </sp>
+            <sp>
+               <speaker>Reaſ.</speaker>
+               <p>Then, I ſuppoſe, they may be built by <hi>Popiſh Founders, Popiſh Maſons,</hi> &amp;c. for we never heard that the Proteſtant Religion ever came into <hi>England</hi> before that time: And if ſo, Why may you not as well conclude, that thoſe that live in Cities, Towns, <hi>&amp;c.</hi> that were founded by Papiſts, are themſelves Papiſts, as thoſe that live in Col<g ref="char:EOLhyphen"/>leges, built by Papiſts, are Papiſts—Come, Sir, What do you ſay?—</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>For any thing I know, they may have a <hi>Spice</hi> of Popery—but if I was certainly aſſu<g ref="char:EOLhyphen"/>red of what you ſay, I would ſet all the Towns on fire about us, as ſoon as I came home—I wonder'd, in the Devil's Name, what made the greateſt part of the Nation ſide with the <hi>D</hi> of <hi>Y.</hi>—But, ſuppoſing this is maliciouſly vented
+<pb n="4" facs="tcp:43144:4"/> forth, becauſe it has the face of an Objection, or not that there is any thing of Truth or Conſe<g ref="char:EOLhyphen"/>quence in it, I am not ſo well ſatisfied as you may think: Have not ſome of you a maintenance from thoſe Popiſh Founders? Are you not the <hi>Pope</hi>'s <hi>Penſioners?</hi> Pray now, Are you not ſworn to Statutes which were made by thoſe Popiſh Founders? Have not they ſpecified in thoſe Statutes, that you ſhall have Maſs read in your Chapels at ſuch and ſuch times? that you ſhall acknowledge the Pope as Supreme? that you ſhould in every tittle conform to the Church of <hi>Rome, &amp;c.</hi> or elſe to be turn'd out, and ſuffer utter expulſion? Or, Will you make me believe that there is no ſuch thing, and that Papiſts would erect Societies for men of a diffe<g ref="char:EOLhyphen"/>rent Religion from themſelves, or would al<g ref="char:EOLhyphen"/>low a maintenance for <hi>Heathens, Pagans</hi> and <hi>Hereticks?</hi> This is a <hi>nut</hi> that you can't <hi>crack,</hi> Sir, and an Objection that all the Philoſophy in the World cannot ſolve—</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>Well, Sir, I ſhall onely deſire to be heard—You having granted, that all Ci<g ref="char:EOLhyphen"/>ties, Towns, <hi>&amp;c.</hi> were founded before the Re<g ref="char:EOLhyphen"/>formation, and conſequently by Papiſts; we may ſuppoſe that they had their Charters and Cuſtoms conferr'd upon them by Papiſts, con<g ref="char:EOLhyphen"/>firm'd by a Popiſh Parliament: and in thoſe Charters, <hi>&amp;c.</hi> ſpecified, that they ſhould be ſubject to the Pope's Authority, and to his Vice-gerents, and that they ſhould conform to
+<pb n="5" facs="tcp:43144:4"/> the Church of <hi>Rome,</hi> &amp;c. Now, as the Char<g ref="char:EOLhyphen"/>ters, <hi>&amp;c.</hi> were corrected, at the coming in of the Proteſtant Religion, by Proteſtant Parlia<g ref="char:EOLhyphen"/>ments; ſo our Statutes, being at firſt conferr'd upon us by Popiſh Founders, confirm'd by a Popiſh Parliament at the coming in of the Pro<g ref="char:EOLhyphen"/>teſtant Religion, were corrected by a Proteſtant Parliament; ſo that the perſon, at his admittance, now ſwears to nothing that is ſinfull or Popiſh, but what is either an indifferent Cuſtom, or con<g ref="char:EOLhyphen"/>formable to Reaſon, Scripture, and the Church of <hi>England,</hi> as 'tis by Law eſtabliſhed. There<g ref="char:EOLhyphen"/>fore, as you would not argue that all perſons that live in Cities, Towns, <hi>&amp;c.</hi> are Popiſh, becauſe they had their Charters conferr'd upon them at firſt by Papiſts, ſince they are repealed and corrected by the coming in of Proteſtants; ſo I may preſume that you will not argue that we, that received our Statutes at firſt from Po<g ref="char:EOLhyphen"/>piſh Founders, are our ſelves Papiſts, ſince the caſe is altogether parallel and the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>But pray, What can you ſay to clear your ſelves, when 'tis known that you have maintenance from Popiſh Founders, and are the Pope's Penſioners?</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>Pray, Sir, let me ask you again; Sup<g ref="char:EOLhyphen"/>poſe your Great Grandfather was a Papiſt, and after his death had left his whole Eſtate to your Grandfather, that was a Proteſtant: your Grand<g ref="char:EOLhyphen"/>father dies, and leaves it to your Father that was a Proteſtant, and at laſt it comes to you as being
+<pb n="6" facs="tcp:43144:5"/> next Heir; Would you not think people fools, that ſhould conclude that you are a Papiſt, and the <hi>Pope</hi>'s <hi>Penſioner,</hi> becauſe you enjoy and have your maintenance from the Eſtate that was once your Popiſh Great-Grandfather's? See Sir, if the Caſe is not the ſame here too.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>Well, I find you would perſuade me to any thing in the World; but you ſhall find that ſome are wiſer than ſome.</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>The whole buſineſs in ſhort is this; Our Founders were good, honeſt, pious Men in their way, but a purer Religion being brought into the Nation, it was thought fit to reform them: as (I am confident you will grant it) a Chriſtian Man, having the Care and Govern<g ref="char:EOLhyphen"/>ment of an Infidel's Child committed to him, will think himſelf bound in Conſcience to edu<g ref="char:EOLhyphen"/>cate it in the Chriſtian Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>But, pray, what can you ſay to the <hi>Images</hi> over your College Gates and in other pla<g ref="char:EOLhyphen"/>ces; your <hi>young Boies</hi> painted with Wings at their Backs over your Altars; your Braſs Candle<g ref="char:EOLhyphen"/>ſticks; your Saints painted in Glaſs Windows? <hi>&amp;c.</hi> I believe you will perſuade me that Idolatry is not Popery anon; but, as I ſaid before, ſome wi<g ref="char:EOLhyphen"/>ſer than ſome.</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>Why we ſay juſt as much to them as you ſay to the Pictures that hang up in your Parlour: they are onely ſuffered to be there for <hi>decency</hi> and <hi>ornament</hi> ſake—But, to deal plainly with you, I confeſs their firſt erec<g ref="char:EOLhyphen"/>tion
+<pb n="7" facs="tcp:43144:5"/> was merely ſuperſtitious, idolatrous, <hi>&amp;c.</hi> but why they may not be permitted now, for the ornament of God's Houſe, and for <hi>civil</hi> and <hi>hiſtorical</hi> uſes, not onely <hi>lawfully</hi> and <hi>decently,</hi> but even <hi>profitably,</hi> [there being no apparent danger of Superſtition;]<note place="margin">B. <hi>Sanderſon.</hi>
+                  </note> or why things either in their firſt erection, or by ſucceeding abuſe ſuperſtitious, may not be profitably continued, if the Superſtition be abo<g ref="char:EOLhyphen"/>liſhed; the moſt <hi>zealous, hot-headed, profound Diſſenter</hi> could never give any thing that was like a ſubſtantial Reaſon. But if that ſhould be the Reaſon, becauſe they were <hi>once</hi> ſuperſti<g ref="char:EOLhyphen"/>tious, not onely Pictures, Croſſes, Images; but moſt of our Hoſpitals, Schools and Colleges (which I hope now you do not think) ay and Pariſh Churches too muſt down: and ſo the ha<g ref="char:EOLhyphen"/>tred of Idolatry ſhould but uſher in licentious <hi>Sacrilege,</hi> contrary to the Apoſtle <hi>Rom. 2. 22. Thou that abhorreſt Idols, committeſt thou Sacri<g ref="char:EOLhyphen"/>lege?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>Sir, I don't intend to be perſuaded the Superſtition is aboliſhed: Have I not ſeen your Graveſt Divines among you, at their entrance into the Church, caſt their Eyes upon the Glaſs Windows, bow towards the Altars, worſhip the Pictur'd Saints, and make Leggs to the Brazen Candleſticks?</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>All this is ſaid upon the account of Bowing towards the Altar. As for caſting their Eyes upon the Painted Glaſs Windows, <hi>&amp;c.</hi>
+                  <pb n="8" facs="tcp:43144:6"/>
+'tis a mere fancy of yours; if you would pull out that Beam of prejudice out of your own Eye, you would ſee and underſtand more clear<g ref="char:EOLhyphen"/>ly: You would ſee that we (the Sons of the Church of <hi>England</hi>) profeſs an invincible Ha<g ref="char:EOLhyphen"/>tred to Idolatry; you would underſtand that we are throughly ſenſible, that thoſe Images have Eyes, and ſee not; Ears, and hear not; <hi>&amp;c.</hi> do not, cannot regard our Worſhip: That we ſcorn to offer the Sacrifice of Prayer to a Creature that is beneath us; that none can anſwer our Peti<g ref="char:EOLhyphen"/>tions, but a <hi>God</hi> that is <hi>glorious, immortal, e<g ref="char:EOLhyphen"/>ternal, incomprehenſible,</hi> &amp;c. If our God was nothing but a Picture, <hi>&amp;c.</hi> or Wood or Stone, I my ſelf would turn <hi>Diſſenter;</hi> I proteſt I would turn <hi>Atheiſt,</hi> own no other ſuperiour or equal to me, but my ſelf. But as to the buſineſs of <hi>Bowing</hi> to the Altar; there is nothing of Idolatry in the Caſe: 'Tis onely a <hi>civil</hi> Re<g ref="char:EOLhyphen"/>ſpect to the Place, upon the ſuppoſal that God is more immediately preſent there where the moſt ſacred and Solemneſt Parts of Religion are perform'd: No more Idolatrous than when you ſtand bare in the <hi>Preſence Chamber.</hi>
+               </p>
+               <p>But if there be a Queſtion, Whether there is any Place that deſerves ſo much Reſpect, is no<g ref="char:EOLhyphen"/>thing at all to our Purpoſe: For if there is, Bowing to the Altar were nothing elſe but a too-forward, pious, ceremonious Miſtake, ha<g ref="char:EOLhyphen"/>ving nothing at all of Sinfulneſs in it, nothing at all of Idolatry.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:43144:6"/>
+               <speaker>Prejud.</speaker>
+               <p>But pray, Sir, Is not your Liturgie the Maſs-Book tranſlated into Engliſh? Is not the Surplice, Organs, <hi>&amp;c.</hi> uſed at this very day among the Papiſts?</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>Our Liturgie is no more the Maſs-Book than your Directory is. This is onely a Pill that is thruſt into the Mouth of the Vul<g ref="char:EOLhyphen"/>gar, being charg'd firſt of all, to ſhut their eyes, and to ſwallow it down whole. It has been often profered, that if any of your Par<g ref="char:EOLhyphen"/>ty will prove any one paſſage in our Liturgie contrary to Scripture, it ſhall be preſently ta<g ref="char:EOLhyphen"/>ken into conſideration, and corrected to his ſa<g ref="char:EOLhyphen"/>tisfaction. As to the Surplice, Organs, <hi>&amp;c.</hi> they are things totally indifferent, neither morally good nor evil: They <hi>ſeem</hi> at once to heighten Devotion, and to be a ſolemn Ornament and Decency to the Church. We muſt conform to them, becauſe Authority has commanded it, leſt by an <hi>ill-natur'd Peeviſhneſs,</hi> we, reſiſting the Ordinance of God, plunge our ſelves into manifeſt Sins. If you had been in another Coun<g ref="char:EOLhyphen"/>try, it would not have been ſinfull, if you did not conform to the Church of <hi>England</hi> in matter of Ceremonies; but ſeeing you are un<g ref="char:EOLhyphen"/>der her Government, and ſhe commands you to doe ſo and ſo; you, by reſiſting her Authori<g ref="char:EOLhyphen"/>ty, do incur God's Diſpleaſure and (without Repentance and the Prevention of Mercy) eter<g ref="char:EOLhyphen"/>nal Damnation.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:43144:7"/>
+               <speaker>Prejud.</speaker>
+               <p>Surplice and Organs, <hi>&amp;c.</hi> are uſed a<g ref="char:EOLhyphen"/>mong the Papiſts; Muſt we conform to things that are <hi>Popiſh?</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>I ſee the very word <hi>Popiſh</hi> frights you. I believe 'twould ſeem a ſtrange Paradox to you, if I ſhould affirm, that ſome things in the Roman Church are truly <hi>religious</hi> and <hi>com<g ref="char:EOLhyphen"/>mendable.</hi> Pray, Sir, underſtand a-right: Our Anceſtours once very unhappily fell a-ſleep; ſuf<g ref="char:EOLhyphen"/>fer'd <hi>Tares</hi> to grow up with the <hi>Wheat;</hi> but when it pleaſed God to awaken 'em, each man beſtirr'd himſelf to root out what was <hi>evil;</hi> ſuf<g ref="char:EOLhyphen"/>fering the <hi>good</hi> onely to ſtand, and expect the wonted Bleſſings from him, who firſt <hi>planted and water'd it.</hi> I tell you they all once were <hi>Pa<g ref="char:EOLhyphen"/>piſts;</hi> but at laſt, finding their Errour, they flew from every thing that was ſuperſtitious and ſinfull; carrying onely things righteous and in<g ref="char:EOLhyphen"/>nocent with them. But they happened to have a ſort of zealous, hot-headed, quarrelſome Com<g ref="char:EOLhyphen"/>panions, (that by and by ſeemed to ſtrike off towards <hi>Geneva</hi>) who would by all means per<g ref="char:EOLhyphen"/>ſuade 'em, to throw away all or elſe moſt of their Carriage; and their onely Argument was, that they were <hi>Popiſh, Popiſh;</hi> yet acknowledging ſtill, that thoſe things they had with them were innocent and righteous. Nay, they ſay, One Fellow (whether he were mad or drunk they could not poſſitively tell) mov'd, that they ſhould caſt away <hi>Prayers</hi> and <hi>Preaching,</hi> and e<g ref="char:EOLhyphen"/>very thing that was like Religion, becauſe 'twas
+<pb n="11" facs="tcp:43144:7"/> 
+                  <hi>Popiſh, Popiſh:</hi> but ſome of his Party deſired him to ſay nothing of thoſe at preſent; they would obtain theſe ſlight requeſts firſt, and conſider of the reſt hereafter. And really, if becauſe they were <hi>Popiſh, Popiſh,</hi> were a ſuffici<g ref="char:EOLhyphen"/>ent Reaſon, they might as well have diſown'd all Religion as the Surplice and Organs, <hi>&amp;c.</hi> I believe, you would think a <hi>Romiſh</hi> piece of Mo<g ref="char:EOLhyphen"/>ny not true Silver, becauſe it had <hi>Caeſar</hi>'s or <hi>Anti-chriſt</hi>'s Inſcription. If we embrace Popiſh Superſtition, we are much to be blam'd; but you, nor the greateſt <hi>prejudic'd</hi> Perſon in the World, can ſee any hurt in <hi>Truth</hi> and <hi>Goodneſs,</hi> though <hi>Popery</hi> doth own it.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>Truly, the Surplice and Organs, <hi>&amp;c.</hi> as we uſe them, may be indifferently good, but, hang it, they are <hi>Popiſh, Popiſh,</hi> that ſticks in my <hi>Gizzard.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>In ſhort, We are Reformers of Po<g ref="char:EOLhyphen"/>pery; We have pick'd out the <hi>Good</hi> and left the <hi>Bad;</hi> We obſerve a <hi>medium</hi> between <hi>Popery</hi> and <hi>Fanaticiſm;</hi> We are reſolv'd not to be too <hi>fini<g ref="char:EOLhyphen"/>cally,</hi> nor too <hi>slovenly</hi> religious.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>But hearken, Sir; When I ſwear to Conform to the Liturgie, I am to <hi>aſſent</hi> and <hi>con<g ref="char:EOLhyphen"/>ſent</hi> to every thing that is in it, to every point and ſyllable, to every rite and ceremony, to every page and line, <hi>&amp;c.</hi> The Almanack in the Common-prayer, that was printed this year, ſaies, <hi>Febr.</hi> hath 29 daies, and, in truth, it hath but 28. Can I ſwear <hi>aſſent</hi> and <hi>conſent</hi> to this? You
+<pb n="12" facs="tcp:43144:8"/> contradict your ſelves; you will deny the Infalli<g ref="char:EOLhyphen"/>bility of Pope and Councils; and yet you will require <hi>aſſent</hi> and <hi>conſent</hi> to a book of humane compoſition, as ſhall ſuppoſe it to be infallible. For, ſo the Declaration ſuppoſes, that there is not the leaſt poſſible miſtake in the whole Book of Common-prayer, but that it is as infallible as the Bible, infallible, as if God himſelf had ſpo<g ref="char:EOLhyphen"/>ken it. Now, if any wiſe man will conform to this, I will give you leave to—</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>You talk very irrationally. Is it not deſired in the Preface to the Common-prayer-book that there ſhould be allowed a juſt and favou<g ref="char:EOLhyphen"/>rable Conſtruction to all humane Writings, <hi>&amp;c.</hi> which certainly ſuppoſes ſome miſtakes? You are onely deſired to ſwear <hi>aſſent</hi> and <hi>conſent</hi> to the <hi>Subſtance</hi> of every thing in that Book, that you do not hold that any thing therein is repugnant to the Word of God: that every thing therein (as to the Exerciſe of Religion) may be law<g ref="char:EOLhyphen"/>fully conform'd to. There is no one deſires you ſhould ſwear that <hi>February</hi> hath this year 28 or 29 daies. We our ſelves might as well have quarrell'd, and continued a Diviſion till now, whether we ſhould have followed the <hi>Salisbu<g ref="char:EOLhyphen"/>ry,</hi> or the <hi>York, Lincoln, Hereford, Bangor</hi> way of ſaying or ſinging our Prayers, as you, whe<g ref="char:EOLhyphen"/>ther you ſhould conform, or aſſent and conſent to the Act of Uniformity. 'Tis <hi>ill nature</hi> that governs you. And (becauſe I cannot expreſs my ſelf otherwiſe at preſent) you, <hi>Salamander</hi>
+                  <pb n="13" facs="tcp:43144:8"/> like, <hi>live</hi> and <hi>enjoy</hi> your ſelves in the fire of Con<g ref="char:EOLhyphen"/>tention.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>I believe, Sir, you fanſie that you have very <hi>conciſely</hi> freed your ſelves from being Papiſts; but I ſhall give; as they are more <hi>re<g ref="char:EOLhyphen"/>ceived,</hi> ſo more <hi>cloſer</hi> Arguments preſently; and, I queſtion not but you will then find, that you are run upon the <hi>Pikes</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>Let's hear what you can ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>'Tis to prove, as I have intended all this while, that you Univerſity men are Papiſts. I and my ſelf have already concluded it.</p>
+               <p>
+                  <list type="syllogism">
+                     <item>
+                        <hi>They that rail againſt the True Proteſtants are Pa<g ref="char:EOLhyphen"/>piſts.</hi>
+                     </item>
+                     <item>
+                        <hi>But you <g ref="char:V">Ʋ</g>niverſity men rail againſt the True Pro<g ref="char:EOLhyphen"/>teſtants, call'em Presbyterian Bitches.</hi>
+                     </item>
+                     <item>Tarbox, <hi>You are Papiſts.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>O ho, Sir, Do you begin to <hi>ſtare</hi>—Come, take the other too, becauſe you have no liking to this.</p>
+               <q>
+                  <p>
+                     <hi>They that ſay the</hi> D. <hi>of</hi> Y. <hi>is the next heir to the Crown are Papiſts.</hi>
+                  </p>
+                  <p>
+                     <hi>But you <g ref="char:V">Ʋ</g>niverſity men ſay the</hi> D. <hi>of</hi> Y. <hi>is the next heir to the Crown.</hi>
+                  </p>
+               </q>
+               <p>Ay, you ſay and ſwear you will fight for him, throw your <hi>lives</hi> and <hi>fortunes</hi> at his feet: So <hi>be<g ref="char:EOLhyphen"/>witching,</hi> ſuch a <hi>deviliſh</hi> Religion is Popery—</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:43144:9"/>
+               <speaker>Reaſon.</speaker>
+               <p>Good Sir, not ſo faſt. I can give one Anſwer to both theſe Arguments as you call 'em. But as to the <hi>Major</hi> of the firſt, <hi>They that rail againſt True Proteſtants are Papiſts</hi>—I ſuppoſe you mean, by <hi>True Proteſtants,</hi> the <hi>Presbyteri<g ref="char:EOLhyphen"/>ans, Non-conformiſts</hi> to the Church of <hi>England,</hi> though the word does not import it. 'Twas onely <hi>jeſtingly</hi> given to you at firſt, and now you have the confidence to take it in <hi>earneſt.</hi> So that the Propoſition is, <hi>Thoſe that rail againſt the Presbyterians are Papiſts</hi>—Pray, Why cannot they be <hi>Anabaptiſts, Quakers,</hi> &amp;c. For, truly, I believe they have almoſt as great an ha<g ref="char:EOLhyphen"/>tred to you. But, you will ſay, <hi>Quakeriſm, A<g ref="char:EOLhyphen"/>nabaptiſm,</hi> &amp;c. is <hi>Jeſuitiſm,</hi> the <hi>Raies</hi> of the <hi>Whore,</hi> hatched by the <hi>warmth</hi> of <hi>Prieſts</hi> and <hi>Je<g ref="char:EOLhyphen"/>ſuits,</hi> &amp;c. And, certainly, ſo is <hi>Presbytery</hi> too, as hath been learned, demonſtrated and made ma<g ref="char:EOLhyphen"/>nifeſt by the Pen, and by the late Rebellions of the armed Brethren in <hi>Scotland.</hi> But, I ſuppoſe, you mean all thoſe to be Papiſts who aſſert the Succeſſion of the <hi>D.</hi> of <hi>Y.</hi> and who, chiefly upon this account, do rail againſt the Presbyterians. To this I ſhall anſwer, (as being directly againſt both your Arguments) granting that they rail againſt and oppoſe the Presbyterians as much as they can, (which, I think, every wiſe man would doe, when he ſees them reſolv'd to play that miſe<g ref="char:EOLhyphen"/>rable Game of <hi>Forty one</hi> over again:) Granting that they ſtand up for the <hi>D.</hi> of <hi>Y.</hi> who is a Pa<g ref="char:EOLhyphen"/>piſt, (which at beſt is but a ſurmiſe, and which
+<pb n="15" facs="tcp:43144:9"/> no one could ever poſſitively prove) yet it does not follow at all, that they are Papiſts, or any way Popiſhly inclin'd. And thus I ſhall prove it—</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>I e'en long thou ſhould'ſt doe it. Why then I have been in the dark all this while; but if thou bring'ſt me into a clearer light, or makeſt me underſtand things better than I doe; I will aſſure you, 'twill be al<g ref="char:EOLhyphen"/>together <hi>unexpected</hi> to me—</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>I muſt tell you again, that there is a <hi>medium</hi> between Popery and Presbytery, and that is the Church of <hi>England</hi> as it is by Law eſtabliſhed. Now, ſeeing Presbytery is its great Enemy, it will be no wonder if 'tis oppoſed by her: no wonder if Popery is oppoſed too, being as great an Enemy on the other hand. The truth ont is, we and the Papiſts do unite in conſenting for a <hi>legal Succeſſion,</hi> (and this is all, or more than you do deſire) yet, for all this, it does not follow we are Papiſts. They would have a <hi>legal Succeſſion,</hi> to promote ſome ſiniſter Ends, and they would have no <hi>legal Suc<g ref="char:EOLhyphen"/>ceſion</hi> too, if 'twould ſerve their turns: They think now this is the beſt means to bring in their Religion; that now is the time to erect a Throne, that they may <hi>Lord</hi> it once again o<g ref="char:EOLhyphen"/>ver our Conſciences; that they may make uſe of the <hi>hearts</hi> of their Friends, and <hi>hearts</hi> and <hi>necks</hi> of their Enemies. But we doe it from <hi>Reaſon, Loyalty</hi> and <hi>Conſcience:</hi> If he were <hi>Jew</hi>
+                  <pb n="16" facs="tcp:43144:10"/> or <hi>Turk,</hi> if he would ſerve our Turns or not ſerve our Turns he ſhould inherit. As we re<g ref="char:EOLhyphen"/>verence the <hi>Lord</hi> of the Vineyard, ſo we re<g ref="char:EOLhyphen"/>verence his <hi>Son;</hi> and are reſolv'd to ſurrender it to him, leſt we our ſelves ſhould be caſt out. I mean to be caſt out in a <hi>ſpiritual</hi> ſenſe; as for what is <hi>temporal;</hi> as for our <hi>lives</hi> and <hi>fortunes,</hi> it muſt and ſhall be ſurrendered; <q rend="inline">neither ſhall we try to redeem it with our <hi>Conſciences,</hi> or to ſave our <hi>skins</hi> proſtitute our very <hi>Souls.</hi>
+                  </q> We know that we are engaged to him and to his poſterity with an <hi>Oath,</hi> and that no power can abſolve us.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>You will grant then, that he might be put by with good <hi>Policy,</hi> but not with a good <hi>Conſcience.</hi> But will you make me believe that all thoſe <hi>roaring Dammee</hi>'s, who aſſert his right, doe it out of Conſcience?</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>I muſt ingeniouſly confeſs (if there be any ſuch) they doe it chiefly out of an hatred to Presbytery, hatred to an <hi>Anarchy</hi> of confuſion, &amp;c. Though wicked, yet they are, for the generalty, men of Eſtates, and do not care for change; whereas on your ſide are none but <hi>diſcontented, pittifull, mean, ſordid</hi> wret<g ref="char:EOLhyphen"/>ches, that can find no other way to make their fortunes. The <hi>diſcontented</hi> Cit pines, becauſe he is ſaid to be one of the <hi>Commonalty:</hi> will venture his Neck to be a <hi>Gentleman:</hi> would fain be in a place of great Honour, though he look'd never ſo <hi>awkardly.</hi> Each Lowſie. Me<g ref="char:EOLhyphen"/>chanical
+<pb n="17" facs="tcp:43144:10"/> 
+                  <hi>Colledge</hi> is not ſatisfied, unleſs you tell him, he ſhall be a <hi>Colonel.</hi>
+                  <note place="margin">
+                     <hi>Colledge</hi> Try<g ref="char:EOLhyphen"/>al.</note> The <hi>Outed Non-conformiſt</hi> preaches Snot, Snivil, ſighs and groans, becauſe his Eyes are not bleſ<g ref="char:EOLhyphen"/>ſed with a fat Living. But as to your ſaying that Succeſſion might be cut off out of good <hi>Po<g ref="char:EOLhyphen"/>licy,</hi> though not <hi>Conſcience,</hi> I think really you are very much miſtaken. Suppoſing you cut it off, to hinder Popery, <hi>&amp;c.</hi> and ſet up one of your own; (though we know, that ſetting up another, is but a mere miſt rais'd, that you may more ſecurely play Deeper and more Helliſh Tricks;) Why the <hi>Independent, Fifth monar<g ref="char:EOLhyphen"/>chy</hi> men, <hi>Quakers,</hi> &amp;c. may doe the ſame, and ſhew you your own Maxim for it. And this would be your good <hi>Policy,</hi> and thus would Government be preſerv'd, beſides ten thouſand greater and more ſevere Inconveniences to <hi>ſup<g ref="char:EOLhyphen"/>port</hi> it.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>But, Sir, as to matter of <hi>Conſcience,</hi> we, in truth, ſtand upon that. I'll maintain, that we ought in <hi>Conſcience</hi> to oppoſe the <hi>D.</hi> of <hi>Y.</hi> This I can prove from a principle of <hi>Reaſon</hi> or <hi>Morality,</hi> and from <hi>Scripture</hi> it ſelf.</p>
+               <p>
+                  <hi>Object.</hi> Firſt, from a principle of <hi>Reaſon</hi> or <hi>Morality,</hi> which is this: <hi>Of two Evils the leaſt is to be choſen.</hi> Now the caſe here is thus; We muſt either keep the <hi>D.</hi> of <hi>Y.</hi> from his right, or elſe, by his coming in, we muſt ſuffer Ido<g ref="char:EOLhyphen"/>latrous Popery, (a Religion which God ab<g ref="char:EOLhyphen"/>horreth) <hi>Tyranny</hi> and <hi>Arbitrary</hi> Power, <hi>Hereſie</hi>
+                  <pb n="18" facs="tcp:43144:11"/> and <hi>Schiſm, Murthers, Maſſacres,</hi> &amp;c. and ut<g ref="char:EOLhyphen"/>ter <hi>Deſtruction</hi> to break in upon us. Now, I ſay, to prevent all this, we ought to oppoſe the <hi>D.</hi> of <hi>Y.</hi> cut him off, as being a commiſſion of the leſſer evil.</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>You miſtake, and confound Matters ſtrangely.</p>
+               <p>
+                  <hi>Anſw.</hi> Pray underſtand: <hi>Evil</hi> is conſidered two waies: It is either <hi>Evil</hi> of <hi>Pain,</hi> or <hi>Evil</hi> of <hi>Sin:</hi> Now this Principle of Reaſon is un<g ref="char:EOLhyphen"/>derſtood onely of <hi>Evils</hi> of <hi>Pain;</hi> ſo that here onely it holds good: As ſuppoſe 'twas put to the choice of a <hi>Diſſenter,</hi> for Diſturbing the Government, whether he would be <hi>hang'd</hi> or ſuffer a <hi>jirking</hi> at the Whipping-poſt: Why, if this Sentence came into his head, <hi>Of two Evils (ſcil.</hi> of <hi>Pain) the leaſt is to be choſen;</hi> unleſs he were mightily given to a <hi>ſpiritual Reſignati<g ref="char:EOLhyphen"/>on,</hi> he would accept of the latter. So that you are extremely out of the way, if you apply it to <hi>Evils</hi> of <hi>Sin.</hi> If it is ſaid, <hi>è Malis minimum</hi> in <hi>Evils</hi> of <hi>Pain;</hi> it is ſaid <hi>è Malis nullum</hi> in <hi>E<g ref="char:EOLhyphen"/>vils</hi> of <hi>Sin,</hi> that is, we may chuſe the leaſt <hi>E<g ref="char:EOLhyphen"/>vil</hi> in <hi>Evils</hi> of <hi>Pain;</hi> but if two <hi>Evils</hi> of <hi>Sin</hi> are propounded to us, we muſt rather die than commit either of them.</p>
+               <p>But perhaps you may object, and ſay, ſuppo<g ref="char:EOLhyphen"/>ſing he is <hi>neceſſitated</hi> to commit one of 'em; as ſuppoſe a man ſhould make a Vow to murther his Brother, he muſt <hi>neceſſarily</hi> either break his Vow, or commit Murther.</p>
+               <pb n="19" facs="tcp:43144:11"/>
+               <p>To this I anſwer, That 'tis impoſſible he ſhould be <hi>neceſſitated</hi> to ſin. As for your Example; He may break his Vow, and commit no ſin; for the Sin was in <hi>making</hi> that Vow; not in <hi>breaking</hi> it: he does not commit the leſſer ſin; but looſes the leſſer bond. <hi>Breaking</hi> of it is far from being a Sin; it being a neceſſary Du<g ref="char:EOLhyphen"/>ty and Branch of <hi>Repentance</hi> due for the former Raſhneſs in <hi>making</hi> it; becauſe a hurtfull Vow is rather to be broke than kept. 'Tis onely <hi>ex pec<g ref="char:EOLhyphen"/>cato,</hi> and not <hi>Peccatum.</hi> Thus you may abſolve your ſelves from the <hi>Solemn League and Cove<g ref="char:EOLhyphen"/>nant,</hi> and commit no Sin, but repent of the firſt <hi>taking</hi> it. The <hi>continuance</hi> of that unlaw<g ref="char:EOLhyphen"/>full Oath makes <hi>new</hi> Sins. But, to come cloſer to the matter, your drawing from this <hi>Prin<g ref="char:EOLhyphen"/>ciple, Of two Evils the leſſer is to be choſen,</hi> that we muſt rather keep the <hi>D.</hi> of <hi>Y.</hi> from his right than that Popery ſhould break in upon us, is very irrational: for the one (<hi>ſcil.</hi> the keeping the <hi>D.</hi> of <hi>Y.</hi> from his right) is an Evil of Sin; the other (ſuffering Popery to come in upon us) in this caſe, is onely an Evil of Pain and Pu<g ref="char:EOLhyphen"/>niſhment: In the latter there is no Evil com<g ref="char:EOLhyphen"/>mitted againſt God, as in the former, but the ſuffering an <hi>Evil</hi> that God had inflicted upon us. An <hi>Evil</hi> of <hi>Puniſhment</hi> is no <hi>Evil</hi> to Chri<g ref="char:EOLhyphen"/>ſtians: They, by ſuffering a Crown of <hi>Thorns</hi> to be put upon their Heads here, may purchaſe one that is <hi>glorious</hi> and <hi>immortal</hi> hereafter. I ſup<g ref="char:EOLhyphen"/>poſe you would mean, It is lawfull to commit
+<pb n="20" facs="tcp:43144:12"/> 
+                  <hi>ſmall evil,</hi> that a <hi>great good</hi> may come. But this is directly contrary to the Apoſtle. If we ought not to commit a ſmall officious Lye (ac<g ref="char:EOLhyphen"/>cording to all Reformed Divines) for the Con<g ref="char:EOLhyphen"/>verſion of Souls, for the Peace of the Church, for the Redemption of the whole World, for the greateſt Glory of God; how much leſs ought we to commit Perjury, invert the Order of Juſtice to ſave Lives that are inconſiderable, or hinder a <hi>temporal</hi> Tyranny. In ſhort, If the <hi>D.</hi> of <hi>Y.</hi> had ten thouſand little Queen <hi>Maries</hi> in his <hi>belly;</hi> If he is the right Heir, (we being ſworn to Lawfull Succeſſours,) he ought in no wiſe, and upon no account to be put by or de<g ref="char:EOLhyphen"/>prived of his Inheritance.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>Well, you make me ſtill believe any thing in the World. But granting I have err'd in applying this Principle of Reaſon, as I call'd it, I ſhall nevertheleſs prove it from Scripture, that we ought in Conſcience to oppoſe the <hi>D.</hi> of <hi>Y.</hi> if he is a Papiſt.</p>
+               <p>
+                  <hi>Obj.</hi> 1. We ought to ſmite and oppoſe Idola<g ref="char:EOLhyphen"/>ters, to be zealous for God, our Zeal will ju<g ref="char:EOLhyphen"/>ſtifie us. We ought to follow the juſt Fact of <hi>Phinees,</hi> Numb. 25. who, that he might ſtay the People from Idolatry, executed Vengeance upon <hi>Zimri,</hi> a Prince of a great houſe: being but a private man and no Magiſtrate.</p>
+               <p>
+                  <hi>Obj.</hi> 2. Then conſult <hi>Numb.</hi> 17. and you ſhall find that the man or woman that is convicted of Idolatry ſhall be brought forth, and ſtoned
+<pb n="21" facs="tcp:43144:12"/> with Stones till they die. And a great deal of reaſon for it.</p>
+               <p>
+                  <hi>Obj.</hi> 3. And in the ſame Chapter you ſhall find that God ſpeaking ſaith, From among thy Bre<g ref="char:EOLhyphen"/>thren (that is, one of thine houſe, one of thy Religion) ſhalt thou ſet King over thee, and thou ſhalt not ſet a Stranger over thee, which is not thy Brother, (a Stranger, as the mar<g ref="char:EOLhyphen"/>gin explains it,) leſt he bring thee to Idola<g ref="char:EOLhyphen"/>try. 'Tis very plain. And if you will make it manifeſt that I am now in an Errour, I will ſtand up with Tooth and Nail for the <hi>D.</hi> of <hi>Y.</hi> drink his Health, throw up my Cap, and con<g ref="char:EOLhyphen"/>form to the Church of <hi>England</hi> immediately.</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>Well, Sir, as to what you ſay firſt, That you ought to be zealous for God, that your Zeal will excuſe you, that you ought to follow the juſt Fact of <hi>Phinees.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> &amp;c. to the 1. <hi>Obj.</hi> I anſwer, That you ought to be zealous for God in a good cauſe, not in a bad one; that your Zeal can then juſti<g ref="char:EOLhyphen"/>fie you, not otherwiſe. And as to the Fact of <hi>Phinees,</hi> &amp;c. I anſwer, That 'tis the opinion of ſome, that you ought no more to imitate it than <hi>David</hi>'s Murther or Adultery, <hi>&amp;c.</hi> for 'tis a Queſtion whether he did well or no? But we will grant he did well, becauſe he was commen<g ref="char:EOLhyphen"/>ded by God himſelf in the ſame Chapter. But what then? Shall this juſtifie you? How do you know but that he did it by the command of the Magiſtrate, or was a Magiſtrate himſelf? But if
+<pb n="22" facs="tcp:43144:13"/> neither, thus I ſhall anſwer you, That men of Heroical Spirits and Gifts, ſuch as were <hi>David, Sampſon, Phinees,</hi> &amp;c. eſpecially at ſuch a time as they were imployed for the Service of Al<g ref="char:EOLhyphen"/>mighty God; were exempt from the Common Rules of Life, and did many things with a ſecret motion of a powerfull Spirit, which Motion of the Spirit was as good to them as a ſpecial Com<g ref="char:EOLhyphen"/>mand from God's mouth. But theſe acts ought not to be followed by others, without a parti<g ref="char:EOLhyphen"/>cular and certain aſſurance of the like Inſtinct. But if any of you ſhould pretend to this Motion of the Spirit, we will tell you, as our Saviour did his Diſciples, (who had more reaſon to pre<g ref="char:EOLhyphen"/>tend to it than any of you,) with indignation, that <hi>you know not what manner of ſpirit you are of.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> to 2. <hi>Obj.</hi> As to that paſſage <hi>Numb.</hi> 17. That the Idolater ſhould be ſtoned till he die; I tell you it cannot be applied to our caſe. 'Tis ſpoken to <hi>Jews,</hi> and not to <hi>Chriſtians.</hi> 'Twas a mere Ceremonie. We ſee the Adulterer, in <hi>Deut.</hi> ch. 22. v. 22. puniſh'd with Death; in the Goſpel, <hi>John</hi> the 8th. Chriſt delivering her. But ſuppo<g ref="char:EOLhyphen"/>ſing the next Succeſſour to the Crown is an Ido<g ref="char:EOLhyphen"/>later, and the King or Magiſtrate will not exe<g ref="char:EOLhyphen"/>cute this upon him, (as in truth being not at all bound to it,) Shall private men uſurp his Au<g ref="char:EOLhyphen"/>thority, and take upon them to reform what is amiſs? They may as well eſtabliſh Laws, raiſe Powers, adminiſter Juſtice, execute Malefactours,
+<pb n="23" facs="tcp:43144:13"/> or doe any other thing the Magiſtrate ſhould doe and would not, which if it were once granted, every body ſeeth, the end could be no other but Confuſion of Church and State.</p>
+               <p>As to that paſſage, From among thy Brethren ſhalt thou ſet a King over thee, and thou ſhalt not ſet a Stranger over thee, which is not thy Brother, <hi>&amp;c.</hi> I anſwer again, 'Tis ſpoken to <hi>Jews,</hi> and not to <hi>Chriſtians:</hi> but if that will not doe; I ſay it is onely a Foretelling, and not a Command, as may be ſeen by the 15th verſe, whom the Lord thy God <hi>ſhall</hi> chuſe; ſo it was afterwards that <hi>Saul</hi> and <hi>David</hi> were anointed by <hi>Samuel,</hi> and <hi>Solomon</hi> by <hi>Nathan.</hi> Well, but if this neither can doe, I ſay, that this Law is con<g ref="char:EOLhyphen"/>cerning a <hi>Voluntary Election</hi> of a King, the King<g ref="char:EOLhyphen"/>dom not being <hi>hereditary</hi> till after <hi>Solomon:</hi> ſo that this Text maketh nothing againſt us; yea, in truth it maketh for us; for by <hi>Brethren</hi> is un<g ref="char:EOLhyphen"/>derſtood the next in Kin; ſo that if the <hi>D.</hi> of <hi>Y.</hi> is next in Kin, he muſt, by this Text, neceſſa<g ref="char:EOLhyphen"/>rily inherit. <hi>Male hoc Zelotae eo trahebant, quaſi externis Regibus parere non liceret. Lex agit de voluntaria electione, non de eo quod indixit neceſ<g ref="char:EOLhyphen"/>ſitas,</hi> ſaies <hi>Grotius</hi> upon the place.</p>
+            </sp>
+            <sp>
+               <speaker>Prejud.</speaker>
+               <p>Truly, Sir, you have given good plau<g ref="char:EOLhyphen"/>ſible Interpretations to theſe Arguments; but I am reſolv'd not to be convinc'd; and ſo, I believe, we had as good break off.</p>
+            </sp>
+            <sp>
+               <speaker>Reaſon.</speaker>
+               <p>I wiſh, Sir, I could at once overcome your <hi>ignorance</hi> and <hi>ill-nature.</hi> 'Tis a very eaſie
+<pb n="24" facs="tcp:43144:14"/> matter to anſwer all thoſe Arguments which igno<g ref="char:EOLhyphen"/>rant or miſtaken men can bring againſt us. But, if you pleaſe, you may ſuſpend your Judgment, if you cannot better inform it. The imputation of Popery is very unwelcome to us. Pray think, that we, the <hi>Sons</hi> of the <hi>Church</hi> of <hi>England,</hi> worſhip God in <hi>Purity, Spirit</hi> and <hi>Truth:</hi> That we pray for the Converſion of <hi>poor deluded</hi> Souls: and that, as we repreſent our <hi>Saviour</hi> crucified be<g ref="char:EOLhyphen"/>tween <hi>two theives,</hi> viz. <hi>Popery</hi> and <hi>Fanaticiſm;</hi> ſo that we have <hi>Charity</hi> to pray that God would make uſe of an <hi>extraordinary Mercy,</hi> and carry you both along with us into <hi>Paradiſe.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43144:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
